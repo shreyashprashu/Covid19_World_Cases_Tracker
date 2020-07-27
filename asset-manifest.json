@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Covid19_World_Cases_Tracker/static/css/main.120a81d9.chunk.css",
+    "main.css": "/Covid19_World_Cases_Tracker/static/css/main.986b0f0f.chunk.css",
     "main.js": "/Covid19_World_Cases_Tracker/static/js/main.4134290a.chunk.js",
     "main.js.map": "/Covid19_World_Cases_Tracker/static/js/main.4134290a.chunk.js.map",
     "runtime-main.js": "/Covid19_World_Cases_Tracker/static/js/runtime-main.959fb8f7.js",
@@ -8,16 +8,16 @@
     "static/js/2.468dd8bb.chunk.js": "/Covid19_World_Cases_Tracker/static/js/2.468dd8bb.chunk.js",
     "static/js/2.468dd8bb.chunk.js.map": "/Covid19_World_Cases_Tracker/static/js/2.468dd8bb.chunk.js.map",
     "index.html": "/Covid19_World_Cases_Tracker/index.html",
-    "precache-manifest.dec99fc0f16b5a02663d3b0e753eb4c1.js": "/Covid19_World_Cases_Tracker/precache-manifest.dec99fc0f16b5a02663d3b0e753eb4c1.js",
+    "precache-manifest.75c2c4136db0c2d83fd88adfdde77ce5.js": "/Covid19_World_Cases_Tracker/precache-manifest.75c2c4136db0c2d83fd88adfdde77ce5.js",
     "service-worker.js": "/Covid19_World_Cases_Tracker/service-worker.js",
-    "static/css/main.120a81d9.chunk.css.map": "/Covid19_World_Cases_Tracker/static/css/main.120a81d9.chunk.css.map",
+    "static/css/main.986b0f0f.chunk.css.map": "/Covid19_World_Cases_Tracker/static/css/main.986b0f0f.chunk.css.map",
     "static/js/2.468dd8bb.chunk.js.LICENSE.txt": "/Covid19_World_Cases_Tracker/static/js/2.468dd8bb.chunk.js.LICENSE.txt",
     "static/media/COVID-19.png": "/Covid19_World_Cases_Tracker/static/media/COVID-19.7e6da746.png"
   },
   "entrypoints": [
     "static/js/runtime-main.959fb8f7.js",
     "static/js/2.468dd8bb.chunk.js",
-    "static/css/main.120a81d9.chunk.css",
+    "static/css/main.986b0f0f.chunk.css",
     "static/js/main.4134290a.chunk.js"
   ]
 }
