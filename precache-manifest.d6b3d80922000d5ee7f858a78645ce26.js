@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f1b3049ecd07852e149db3969013ad2",
+    "revision": "fd2714bc5f093fc64fb96befcecfa6b3",
     "url": "/Covid19_World_Cases_Tracker/index.html"
   },
   {
-    "revision": "6629a7a473c2becebf8d",
-    "url": "/Covid19_World_Cases_Tracker/static/css/main.986b0f0f.chunk.css"
+    "revision": "3ee7f7cdaafefe8f5aae",
+    "url": "/Covid19_World_Cases_Tracker/static/css/main.00669366.chunk.css"
   },
   {
     "revision": "84b6538bd6f843433063",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Covid19_World_Cases_Tracker/static/js/2.468dd8bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6629a7a473c2becebf8d",
-    "url": "/Covid19_World_Cases_Tracker/static/js/main.4134290a.chunk.js"
+    "revision": "3ee7f7cdaafefe8f5aae",
+    "url": "/Covid19_World_Cases_Tracker/static/js/main.1b60b991.chunk.js"
   },
   {
     "revision": "a876bcf59cd764154669",
     "url": "/Covid19_World_Cases_Tracker/static/js/runtime-main.959fb8f7.js"
   },
   {
-    "revision": "7e6da74622e5978ae23b41ad07ad071b",
-    "url": "/Covid19_World_Cases_Tracker/static/media/COVID-19.7e6da746.png"
+    "revision": "d9dc53e2c5d741061a3e5d5b1dc169ac",
+    "url": "/Covid19_World_Cases_Tracker/static/media/COVID-19.d9dc53e2.png"
   }
 ]);
